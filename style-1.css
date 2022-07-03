@@ -1,0 +1,63 @@
+body{
+    background-color: blanchedalmond;
+}
+
+
+.hd h1{
+    color: darkgoldenrod;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Author{
+    color: black;
+}
+
+div{
+    border: 10px solid whitesmoke;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-right: 500px;
+    padding: 50px;
+}
+
+
+.div1{
+    background-color: aqua;
+}
+
+
+.div1 h3{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkslategrey;
+}
+
+.div1 p{
+    text-align: justify;
+}
+
+.div2{
+    background-color: burlywood;
+    margin-left: 500px;
+}
+
+.div2 h3{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.div2 p{
+    text-align: justify;
+}
+
+.div3{
+    background-color: yellow;
+}
+
+.div3 h3{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: gray;
+}
+
