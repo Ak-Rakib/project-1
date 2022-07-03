@@ -12,6 +12,26 @@ body{
     color: black;
 }
 
+.gul {
+    height: 250px;
+    width: 440px;
+    position: relative;left:570px;
+    
+}
+
+.bnd {
+    height: 250px;
+    width: 440px;
+    position: relative;right:500px;
+}
+
+.smb {
+    height: 250px;
+    width: 440px;
+    position: relative;left:570px;
+     
+}
+
 div{
     border: 10px solid whitesmoke;
     border-radius: 10px;
